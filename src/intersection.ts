@@ -1,3 +1,6 @@
+function () {}
+
+
 namespace Intersection {
   interface A {
     aMethod: () => void;
